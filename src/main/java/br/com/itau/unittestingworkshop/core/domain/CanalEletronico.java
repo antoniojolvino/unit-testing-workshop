@@ -8,5 +8,6 @@ import java.util.List;
 public class CanalEletronico {
     String tipo;
     String informacaoAdicional;
+    List<String> urls;
     List<String> servicos;
 }

@@ -27,6 +27,7 @@ public interface ElectronicChannelMapper {
             {
                     @Mapping(source = "identification.type", target = "tipo"),
                     @Mapping(source = "identification.additionalInfo", target = "informacaoAdicional"),
+                    @Mapping(source = "identification.urls", target = "urls"),
                     @Mapping(source = "services", target = "servicos")
             }
     )

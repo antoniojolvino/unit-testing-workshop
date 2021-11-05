@@ -22,16 +22,16 @@ public class ChannelsImpl implements ChannelPort {
     private ElectronicChannelMapper mapper;
 
     @Override
-    public List<Empresa> getEletronicChannels() {
+    public List<Empresa> getCompaniesEletronicChannels() {
 
-        ResponseElectronicChannels body = channelsFeign.getEletronicChannels(null).getBody();
+        ResponseElectronicChannels body = channelsFeign.getCompaniesEletronicChannels(null).getBody();
 
         Assert.notNull(body, MENSAGEM_SEM_RESPOSTA_OPB);
 
         String totalRecords = body.getMeta().getTotalRecords();
 
         if (Integer.parseInt(totalRecords) > DEFAULT_PAGE_SIZE) {
-            body = channelsFeign.getEletronicChannels(totalRecords).getBody();
+            body = channelsFeign.getCompaniesEletronicChannels(totalRecords).getBody();
             Assert.notNull(body, MENSAGEM_SEM_RESPOSTA_OPB);
         }
 

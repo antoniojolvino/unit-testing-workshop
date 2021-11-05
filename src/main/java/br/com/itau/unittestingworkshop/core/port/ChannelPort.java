@@ -5,5 +5,5 @@ import br.com.itau.unittestingworkshop.core.domain.Empresa;
 import java.util.List;
 
 public interface ChannelPort {
-    List<Empresa> getEletronicChannels();
+    List<Empresa> getCompaniesEletronicChannels();
 }

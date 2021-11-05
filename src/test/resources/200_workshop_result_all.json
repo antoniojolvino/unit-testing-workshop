@@ -1,0 +1,993 @@
+[
+  {
+    "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAUCARD S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Twitter",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Facebook",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Instagram",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Twitter",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "e-mail",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Instagram",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Facebook",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ CORRETORA DE VALORES S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAÚ BBA S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAÚ CONSIGNADO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "HIPERCARD BANCO MÚLTIPLO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ UNIBANCO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "SAC",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": []
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "SAC",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": []
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "OUVIDORIA",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "URL para outros",
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "SAC",
+        "informacaoAdicional": "NA",
+        "servicos": []
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Resolve, canal por e-mail utilizado na central",
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  }
+]

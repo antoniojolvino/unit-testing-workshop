@@ -10,5 +10,5 @@ import org.springframework.web.bind.annotation.RequestParam;
 @FeignClient(value = "OpenbankingChannels", url = "https://api.itau/open-banking/channels/v1")
 public interface ChannelsFeign {
     @GetMapping(value = "/electronic-channels", produces = MediaType.APPLICATION_JSON_VALUE)
-    ResponseEntity<ResponseElectronicChannels> getEletronicChannels(@RequestParam("page-size") String pageSize);
+    ResponseEntity<ResponseElectronicChannels> getCompaniesEletronicChannels(@RequestParam("page-size") String pageSize);
 }
