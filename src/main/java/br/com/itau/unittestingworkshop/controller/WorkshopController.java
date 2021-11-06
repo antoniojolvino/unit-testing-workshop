@@ -21,7 +21,7 @@ public class WorkshopController {
     private WorkshopService workshopService;
 
     @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<List<Empresa>> getWorkshop(@RequestParam(value = "tipoCanal", required = false)TipoCanal tipoCanal) {
+    public ResponseEntity<List<Empresa>> getWorkshop(@RequestParam(value = "tipoCanal", required = false) TipoCanal tipoCanal) {
         return ResponseEntity.ok(workshopService.getEmpresas(tipoCanal));
     }
 }

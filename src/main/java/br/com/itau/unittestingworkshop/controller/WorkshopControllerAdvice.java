@@ -18,7 +18,7 @@ import java.util.stream.StreamSupport;
 public class WorkshopControllerAdvice {
 
     @ExceptionHandler(ConversionFailedException.class)
-    public ResponseEntity<Object> handleConversionFailedException(ConversionFailedException ex, WebRequest request){
+    public ResponseEntity<Object> handleConversionFailedException(ConversionFailedException ex, WebRequest request) {
         Map<String, Object> body = new LinkedHashMap<>();
         body.put("timestamp", LocalDateTime.now());
         body.put("message", "Request Parameter inválido");
