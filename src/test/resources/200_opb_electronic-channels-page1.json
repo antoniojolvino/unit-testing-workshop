@@ -1,0 +1,900 @@
+{
+  "data": {
+    "brand": {
+      "name": "Itaú",
+      "companies": [
+        {
+          "name": "ITAÚ UNIBANCO HOLDING S.A.",
+          "cnpjNumber": "60872504000123",
+          "urlComplementaryList": "NA",
+          "electronicChannels": [
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.bancofiat.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                  "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO",
+                  "additionalInfo": "Financiamento Veiculos"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Emissão de boletos, demonstrativo de IR, CET,  extrato para portabilidade"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "Informações referente ao contrato, pagamentos, dúvidas dos clientes."
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "INTERNET_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br/abrir-conta"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "Conta corrente PF"
+                },
+                {
+                  "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                  "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                  "additionalInfo": "1) Modalidade de abertura de conta SPI em que o usuário informa o CNPJ da empresa vai depositar o seu salário. 2) Possibilidade de portabilidade de salário"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "Optin para cadastramento de Pix (em desenvolvimento)"
+                },
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "Oferta de Aplicação automática do saldo da conta corrente"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "Cartão de crédito ofertado no processo de abertura de conta"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "Oferta de seguro cartão protegido (ainda N implantado no canal)"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Além da conta corrente em si, são ofertados os produtos: cartão de crédito, Overlimit apenas para cartão mútiplo, LIS, AD e Aplic Aut"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br/abrir-conta"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "Conta corrente PF"
+                },
+                {
+                  "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                  "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                  "additionalInfo": "1) Modalidade de abertura de conta SPI em que o usuário informa o CNPJ da empresa vai depositar o seu salário. 2) Possibilidade de portabilidade de salário"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "Optin para cadastramento de Pix (em desenvolvimento)"
+                },
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "Oferta de Aplicação automática do saldo da conta corrente"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "Cartão de crédito ofertado no processo de abertura de conta"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "Oferta de seguro cartão protegido (ainda N implantado no canal)"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Além da conta corrente em si, são ofertados os produtos: cartão de crédito, Overlimit apenas para cartão mútiplo, LIS, AD e Aplic Aut"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                  "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO",
+                  "additionalInfo": "Financiamento Veiculos"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Emissão de boletos, demonstrativo de IR, CET,  extrato para portabilidade"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "Informações referente ao contrato, pagamentos, dúvidas dos clientes."
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br/empresas/abra-sua-conta"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "Conta corrente PJ"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "Optin para cadastramento de Pix (em desenvolvimento)"
+                },
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "Oferta de Aplicação automática do saldo da conta corrente"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Além da conta corrente em si, são ofertados os produtos: Maquininha Rede, LIS, AD e Aplic Aut"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BANCO ITAUCARD S.A.",
+          "cnpjNumber": "17192451000170",
+          "urlComplementaryList": "NA",
+          "electronicChannels": [
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Twitter",
+                "urls": [
+                  "https://www.twitter.com/itaucard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://apps.apple.com/app/id1442872271"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                  "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Cobrança, divisão de conta, recarga de celular, saque digital e cartão pré-pago"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://apps.apple.com/br/app/itaucard-cart%C3%A3o-de-cr%C3%A9dito/id394401915"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Facebook",
+                "urls": [
+                  "https://www.facebook.com/credicard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.credicard.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                  "code": "COMP_VEND_CHQUE_CHQUE_VGEM_CARGA_MOEDA_ESTRAN_CART_PRE_PAGO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "INTERNET_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br/cartoes/"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                  "code": "COMP_VEND_CHQUE_CHQUE_VGEM_CARGA_MOEDA_ESTRAN_CART_PRE_PAGO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Instagram",
+                "urls": [
+                  "https://www.instagram.com/credicard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Twitter",
+                "urls": [
+                  "https://www.twitter.com/credicard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://play.google.com/store/apps/details?id=com.itau.iti"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+                  "code": "RECEBE_PAGA_QUALQUER_NATUREZA",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Cobrança, divisão de conta, recarga de celular, saque digital e cartão pré-pago"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "e-mail",
+                "urls": [
+                  "ajuda@iti.itau"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://apps.apple.com/br/app/itaucard-cart%C3%A3o-de-cr%C3%A9dito/id394401915"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CANCELAMENTO",
+                  "code": "CANCELAMENTO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Instagram",
+                "urls": [
+                  "https://www.instagram.com/itaucard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "OUTROS",
+                "additionalInfo": "Rede Social - Facebook",
+                "urls": [
+                  "https://www.facebook.com/itaucard"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                  "code": "COMP_VEND_CHQUE_CHQUE_VGEM_CARGA_MOEDA_ESTRAN_CART_PRE_PAGO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR"
+                ]
+              },
+              "services": [
+                {
+                  "name": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+                  "code": "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_PAGTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "CARTAO_CREDITO",
+                  "code": "CARTAO_CREDITO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "SEGUROS",
+                  "code": "SEGUROS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+                  "code": "COMP_VEND_CHQUE_CHQUE_VGEM_CARGA_MOEDA_ESTRAN_CART_PRE_PAGO",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ITAÚ CORRETORA DE VALORES S.A.",
+          "cnpjNumber": "61194353000164",
+          "urlComplementaryList": "NA",
+          "electronicChannels": [
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://play.google.com/store/apps/details?id=com.itau.broker&hl=pt"
+                ]
+              },
+              "services": [
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://apps.apple.com/br/app/ita%C3%BA-corretora-pro-para-iphone/id581517861"
+                ]
+              },
+              "services": [
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "NA"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "Informações sobre produtos de investimento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/channels/v1/electronic-channels",
+    "first": "https://api.itau/open-banking/channels/v1/electronic-channels?page=1&page-size=25",
+    "next": "https://api.itau/open-banking/channels/v1/electronic-channels?page=2&page-size=25",
+    "last": "https://api.itau/open-banking/channels/v1/electronic-channels?page=4&page-size=25"
+  },
+  "meta": {
+    "totalRecords": 89,
+    "totalPages": 4
+  }
+}

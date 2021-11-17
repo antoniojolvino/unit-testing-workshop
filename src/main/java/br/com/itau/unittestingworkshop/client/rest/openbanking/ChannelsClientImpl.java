@@ -13,10 +13,10 @@ import java.util.List;
 
 @Service
 @AllArgsConstructor
-public class ChannelsImpl implements ChannelPort {
+public class ChannelsClientImpl implements ChannelPort {
 
-    public static final int DEFAULT_PAGE_SIZE = 25;
     public static final String MENSAGEM_SEM_RESPOSTA_OPB = "Sem resposta para API do Openbanking na rota de Canais Eletronicos";
+    public static final String _1 = "1";
 
     private ChannelsFeign channelsFeign;
     private ElectronicChannelMapper mapper;
@@ -28,9 +28,8 @@ public class ChannelsImpl implements ChannelPort {
 
         Assert.notNull(body, MENSAGEM_SEM_RESPOSTA_OPB);
 
-        String totalRecords = body.getMeta().getTotalRecords();
-
-        if (Integer.parseInt(totalRecords) > DEFAULT_PAGE_SIZE) {
+        if (!_1.equals(body.getMeta().getTotalPages())) {
+            String totalRecords = body.getMeta().getTotalRecords();
             body = channelsFeign.getCompaniesEletronicChannels(totalRecords).getBody();
             Assert.notNull(body, MENSAGEM_SEM_RESPOSTA_OPB);
         }
