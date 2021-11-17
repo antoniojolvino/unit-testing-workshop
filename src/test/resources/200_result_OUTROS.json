@@ -1,0 +1,153 @@
+[
+  {
+    "nome": "BANCO ITAUCARD S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Twitter",
+        "urls": [
+          "https://www.twitter.com/itaucard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Facebook",
+        "urls": [
+          "https://www.facebook.com/credicard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Instagram",
+        "urls": [
+          "https://www.instagram.com/credicard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Twitter",
+        "urls": [
+          "https://www.twitter.com/credicard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "e-mail",
+        "urls": [
+          "ajuda@iti.itau"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Instagram",
+        "urls": [
+          "https://www.instagram.com/itaucard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Rede Social - Facebook",
+        "urls": [
+          "https://www.facebook.com/itaucard"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ UNIBANCO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.instagram.com/itau"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.facebook.com/itau"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.twitter.com/@itau"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "URL para outros",
+        "urls": [
+          "https://www.investiremque.com.br"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "OUTROS",
+        "informacaoAdicional": "Resolve, canal por e-mail utilizado na central",
+        "urls": [
+          "seguros@itau.com.br "
+        ],
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  }
+]

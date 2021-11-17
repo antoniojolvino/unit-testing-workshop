@@ -27,7 +27,7 @@ public class WorkshopControllerAdvice {
                 false).map(key -> {
             Map<String, Object> parameter = new LinkedHashMap<>();
             parameter.put("parameter", key);
-            parameter.put("vallue", request.getParameter(key));
+            parameter.put("value", request.getParameter(key));
             return parameter;
         }).toArray());
         return new ResponseEntity<>(body, HttpStatus.BAD_REQUEST);

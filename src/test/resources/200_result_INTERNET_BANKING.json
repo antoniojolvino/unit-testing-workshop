@@ -1,0 +1,384 @@
+[
+  {
+    "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/abrir-conta"
+        ],
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAUCARD S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/cartoes/"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ CORRETORA DE VALORES S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itaucorretora.com.br/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itaucorretorapro.com.br/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAÚ BBA S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/itaubba-pt/"
+        ],
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "HIPERCARD BANCO MÚLTIPLO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.hipercard.com.br/cartoes/"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ UNIBANCO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/personnalite/investimentos/#section15"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/atendimento-itau/para-voce/telefones/"
+        ],
+        "servicos": []
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://internetpf1.itau.com.br/banklinepf//GRIPNET/bklcom.dll"
+        ],
+        "servicos": []
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/uniclass/investimentos/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://correspondenciasdigitais.com.br/login"
+        ],
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/empresas/"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.lojadesegurositau.com.br/"
+        ],
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/"
+        ],
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/atendimento-itau/para-voce/telefones/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/atendimento-itau/para-voce/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/canais-itau/aplicativo-itau-no-computador/#section6"
+        ],
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/atendimento-itau/para-voce/emprestimos/credito-consignado/"
+        ],
+        "servicos": [
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/uniclass/"
+        ],
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://internetpf1.itau.com.br/router-app/router#30horas"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/personnalite/"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/personnalite/"
+        ],
+        "servicos": [
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/"
+        ],
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/private-bank"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://internetpf1.itau.com.br/banklinepf//GRIPNET/bklcom.dll#30horas"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "INTERNET_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://internetpf1.itau.com.br/banklinepf//GRIPNET/bklcom.dll"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      }
+    ]
+  }
+]

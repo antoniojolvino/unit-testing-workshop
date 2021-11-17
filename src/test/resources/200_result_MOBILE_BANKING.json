@@ -1,0 +1,554 @@
+[
+  {
+    "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/abrir-conta"
+        ],
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/empresas/abra-sua-conta"
+        ],
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAUCARD S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/app/id1442872271"
+        ],
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.iti"
+        ],
+        "servicos": [
+          "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/itaucard-cart%C3%A3o-de-cr%C3%A9dito/id394401915"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.play.google.com/store/apps/details?id=com.credicard.app&hl=pt_BR"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ CORRETORA DE VALORES S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.broker&hl=pt"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/ita%C3%BA-corretora-pro-para-iphone/id581517861"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=br.com.itaucorretorapro&hl=pt"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/corretora/id340461279"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAÚ CONSIGNADO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/correspondentes-no-pais/"
+        ],
+        "servicos": [
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "HIPERCARD BANCO MÚLTIPLO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/hipercard-controle-seu-cart%C3%A3o/id1058898100"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.hipercard.app&hl=pt"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ UNIBANCO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.applight"
+        ],
+        "servicos": [
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA-pagamentos-no-app/id474505665 "
+        ],
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.pers "
+        ],
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.pers"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.ion.itau"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau "
+        ],
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.pers"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA-empresas/id348274534"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/atendimento-itau/para-voce/emprestimos/credito-consignado/"
+        ],
+        "servicos": [
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA/id474505665"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau.empresas"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itau"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA/id474505665"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA-personnalit%C3%A9/id474507966"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA-personnalit%C3%A9/id474507966 "
+        ],
+        "servicos": [
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO"
+        ]
+      },
+      {
+        "tipo": "MOBILE_BANKING",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA-personnalit%C3%A9/id474507966"
+        ],
+        "servicos": [
+          "RECEBIMENTOS_PAGAMENTOS_QUALQUER_NATUREZA",
+          "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "EXECUCAO_ATIVA_PASSIVA_ORDENS_PAGAMENTO_SOLICITACAO_CLIENTES_USUARIOS",
+          "DEPOSITOS_MOEDA_ESPECIE_CHEQUE",
+          "SEGUROS",
+          "COMPRA_VENDA_MOEDA_ESTRANGEIRA_ESPECIE",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  }
+]

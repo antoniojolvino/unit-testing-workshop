@@ -1,0 +1,185 @@
+[
+  {
+    "nome": "ITAÚ UNIBANCO HOLDING S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.bancofiat.com.br"
+        ],
+        "servicos": [
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br"
+        ],
+        "servicos": [
+          "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "BANCO ITAUCARD S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/itaucard-cart%C3%A3o-de-cr%C3%A9dito/id394401915"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.credicard.com.br"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://play.google.com/store/apps/details?id=com.itaucard.activity&hl=pt_BR&gl=US"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CARTAO_CREDITO",
+          "SEGUROS",
+          "COMPRA_VENDA_CHEQUE_CHEQUE_VIAGEM_CARGA_MOEDA_ESTRANGEIRA_CARTAO_PRE_PAGO",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "INFORMACOES"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "ITAÚ UNIBANCO S.A.",
+    "canaisEletronicos": [
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itauempresas.com.br"
+        ],
+        "servicos": [
+          "CONSULTA_SALDOS_EXTRATOS_CONTAS_DEPOSITOS_CONTAS_PAGAMENTOS",
+          "INFORMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://internetpf1.itau.com.br/banklinepf//GRIPNET/bklcom.dll"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://ww110.itau.com.br/liveinvest/"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://www.itau.com.br/"
+        ],
+        "servicos": [
+          "SEGUROS",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://apps.apple.com/br/app/banco-ita%C3%BA/id474505665"
+        ],
+        "servicos": [
+          "CARTAO_CREDITO",
+          "CANCELAMENTO",
+          "INFORMACOES",
+          "RECLAMACOES"
+        ]
+      },
+      {
+        "tipo": "CHAT",
+        "informacaoAdicional": "NA",
+        "urls": [
+          "https://ww110.itau.com.br/liveinvest/Atendimento"
+        ],
+        "servicos": [
+          "APLICACOES_RESGATES_INVESTIMENTOS",
+          "OUTROS_PRODUTOS_SERVICOS",
+          "RECLAMACOES"
+        ]
+      }
+    ]
+  }
+]
