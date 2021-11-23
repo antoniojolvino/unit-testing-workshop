@@ -17,6 +17,14 @@ public class OpbMock {
         }
     }
 
+    public static ResponseElectronicChannels getResponseElectronicChannelsQuebrado() {
+        try {
+            return objectMapper.readValue(OpbMock.class.getClassLoader().getResourceAsStream("200_opb_electronic-channels_quebrado.json"), ResponseElectronicChannels.class);
+        } catch (IOException e) {
+            return null;
+        }
+    }
+
     public static ResponseElectronicChannels getResponseElectronicChannelsPage1() {
         try {
             return objectMapper.readValue(OpbMock.class.getClassLoader().getResourceAsStream("200_opb_electronic-channels-page1.json"), ResponseElectronicChannels.class);

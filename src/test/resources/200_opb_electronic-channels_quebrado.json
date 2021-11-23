@@ -1,0 +1,137 @@
+{
+  "data": {
+    "brand": {
+      "name": "Itaú",
+      "companies": [
+        {
+          "name": "Companha A",
+          "electronicChannels": [
+            {
+              "identification": {
+                "type": "CHAT",
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.bancofiat.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO",
+                  "code": "OPERA_CREDITO_OUTROS_SERVICOS_ACOMPANHA_OPERACAO",
+                  "additionalInfo": "Financiamento Veiculos"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Emissão de boletos, demonstrativo de IR, CET,  extrato para portabilidade"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "Informações referente ao contrato, pagamentos, dúvidas dos clientes."
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "services": [
+              ]
+            },
+            {
+              "identification": {
+                "type": "MOBILE_BANKING"
+
+              },
+              "services": [{
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA"
+                },
+                {
+                  "additionalInfo": "1) Modalidade de abertura de conta SPI em que o usuário informa o CNPJ da empresa vai depositar o seu salário. 2) Possibilidade de portabilidade de salário"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "type": "CHAT",
+                "urls": [
+                  "https://www.itau.com.br"
+                ]
+              },
+              "services": [
+                {
+                  "name": "OPERACOES_CREDITO_BEM_COMO_OUTROS_SERVICOS_PRESTADOS_ACOMPANHAMENTO_OPERACAO"
+
+                },
+                {
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Emissão de boletos, demonstrativo de IR, CET,  extrato para portabilidade"
+                },
+                {
+                  "name": "INFORMACOES",
+                  "code": "INFORMACOES",
+                  "additionalInfo": "Informações referente ao contrato, pagamentos, dúvidas dos clientes."
+                },
+                {
+                  "name": "RECLAMACOES",
+                  "code": "RECLAMACOES",
+                  "additionalInfo": "NA"
+                }
+              ]
+            },
+            {
+              "identification": {
+                "additionalInfo": "NA",
+                "urls": [
+                  "https://www.itau.com.br/empresas/abra-sua-conta"
+                ]
+              },
+              "services": [
+                {
+                  "name": "ABERTURA_CONTAS_DEPOSITOS_OU_PAGAMENTO_PRE_PAGA",
+                  "code": "ABRE_CONTA_DEPOSITO_OU_PRE_PAGA",
+                  "additionalInfo": "Conta corrente PJ"
+                },
+                {
+                  "name": "TRANSFERENCIAS_ELETRONICAS_MOVIMENTA_CONTAS_DEPOSITOS_OU_PAGTO_TITULARES_CLIENTES",
+                  "code": "TRANSF_ELETR_MVIMTA_CONTAS_DEPOS_OU_PAGTO_TITULARES_CLNTES",
+                  "additionalInfo": "Optin para cadastramento de Pix (em desenvolvimento)"
+                },
+                {
+                  "name": "APLICACOES_RESGATES_INVESTIMENTOS",
+                  "code": "APLICA_RESGATA_INVESTIMENTOS",
+                  "additionalInfo": "Oferta de Aplicação automática do saldo da conta corrente"
+                },
+                {
+                  "name": "OUTROS_PRODUTOS_SERVICOS",
+                  "code": "OUTROS_PRODUTOS_SERVICOS",
+                  "additionalInfo": "Além da conta corrente em si, são ofertados os produtos: Maquininha Rede, LIS, AD e Aplic Aut"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Companha B",
+          "electronicChannels": []
+        },
+        {
+          "cnpjNumber": "60872504000123",
+          "urlComplementaryList": "NA"
+        }
+      ]
+    }
+  },
+  "links": {
+    "self": "https://api.itau/open-banking/channels/v1/electronic-channels?page-size=90",
+    "first": "https://api.itau/open-banking/channels/v1/electronic-channels?page=1&page-size=90",
+    "last": "https://api.itau/open-banking/channels/v1/electronic-channels?page=1&page-size=90"
+  },
+  "meta": {
+    "totalRecords": 89,
+    "totalPages": 1
+  }
+}
